@@ -6,5 +6,5 @@ Identifying edible mushrooms from poisonous ones can be challenging due to the v
 
 # Instructions
 
-1. The .ipynb file is present inside code directly, you can either run it directly in Google Colab or download the Jupyter Notebook to run on your local PC.
-2. The Dataset  is present inside the dataset folder (mashrooms.csv)
+1. The .ipynb file is present inside code directory, you can either run it directly on Google Colab or download the Jupyter Notebook to run on your local PC.
+2. The Dataset is present inside the dataset directory (mashrooms.csv)
